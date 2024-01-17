@@ -5,3 +5,6 @@
 [submodule "AgroR"]
 	path = AgroR
 	url = https://github.com/cran/AgroR
+[submodule "AgroReg"]
+	path = AgroReg
+	url = https://github.com/cran/AgroReg
